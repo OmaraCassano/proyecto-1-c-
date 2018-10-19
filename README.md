@@ -1,4 +1,4 @@
-# proyecto-1-c-
+# proyecto-1-c++
 
 #include <iostream>
 #include <stdlib.h>
